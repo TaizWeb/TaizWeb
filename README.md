@@ -1,4 +1,4 @@
-I'm Taiz, a small-time programmer from Tennessee. Aspiring game developer, writer, and artist.
+I'm Taiz, your local hero at large. Aspiring game developer, writer, and artist.
 
 ## Things I've Written
 Regular blog posts are [here](https://taizweb.github.io/post/index.html), while developmental posts are [here](https://taizweb.github.io/devlog/index.html).
