@@ -1,8 +1,5 @@
 I'm Taiz, your local hero at large. Aspiring game developer, writer, and artist.
 
-## Things I've Written
-Regular blog posts are [here](https://taizweb.github.io/post/index.html), while developmental posts are [here](https://taizweb.github.io/devlog/index.html).
-
 ## Things I've Made
 [Heartbeat](https://github.com/TaizWeb/heartbeat), a game engine built on top of Love2d. Includes a physics engine, built-in level editor, level reader/writer, dialog framework, and entity/tile framework. Typically used for platformers.
 
